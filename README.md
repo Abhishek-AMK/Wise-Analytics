@@ -38,8 +38,7 @@ The project is divided into three parts:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
+git clone https://github.com/Abhishek-AMK/Wise-Analytics.git
 ```
 
 ### Create and Activate Virtual Environment
